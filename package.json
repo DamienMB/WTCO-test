@@ -1,7 +1,7 @@
 {
   "name": "wtco",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "",
   "license": "MIT",
   "scripts": {
     "start:server": "cd backend && nodemon server.js --exec babel-node --presets es2015,stage-0",
